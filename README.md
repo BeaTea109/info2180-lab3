@@ -1,2 +1,2 @@
 # INFO2180 Lab 3
-This is Lab 3 for <Your Name>
+This is Lab 3 for Brandon Tucker
